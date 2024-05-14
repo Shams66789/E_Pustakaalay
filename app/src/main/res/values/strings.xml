@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPustakaalay</string>
+    <string name="title_books">Books</string>
+    <string name="title_query">Query</string>
+</resources>

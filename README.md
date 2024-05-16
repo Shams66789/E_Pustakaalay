@@ -3,13 +3,14 @@
 Welcome to E Pustakaalay, an Android Admin App for managing books and client requests seamlessly using Firebase.
 
 ## Screenshots# E_Pustakaalay
-![Screenshot 1](Screenshots/Books.jpg)
-![Screenshot 2](Screenshots/Books_fill.jpg)
-![Screenshot 3](Screenshots/Query.jpg)
+<img src="Screenshots/Books.jpg" alt="Screenshot 1" width="200"/> <img src="Screenshots/Books_fill.jpg" alt="Screenshot 1" width="200"/>
+<img src="Screenshots/Query.jpg" alt="Screenshot 1" width="200"/>
 
 ## Download APK
 
-You can download the latest version of the E Pustakaalay APK [here](https://www.example.com).
+You can download the latest version of the E Pustakaalay Admin App from the link below:
+
+[Download E Pustakaalay Admin App APK](https://github.com/Shams66789/E_Pustakaalay_Admin/raw/main/Apk/E-Pustakaalay.apk).
 
 ## Features
 

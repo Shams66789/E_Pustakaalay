@@ -2,7 +2,7 @@
 
 Welcome to E Pustakaalay, an Android Admin App for managing books and client requests seamlessly using Firebase.
 
-## Screenshots# E_Pustakaalay
+## Screenshots
 <img src="Screenshots/Books.jpg" alt="Screenshot 1" width="200"/> <img src="Screenshots/Books_fill.jpg" alt="Screenshot 1" width="200"/>
 <img src="Screenshots/Query.jpg" alt="Screenshot 1" width="200"/>
 
